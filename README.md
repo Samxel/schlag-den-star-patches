@@ -30,11 +30,15 @@ To apply the patch, follow these steps:
 
 5. Launch the game and enjoy the modifications!
 
----
-
 ### **Important Notes**
 - **Backup First:** Always create a backup of the original `Assembly-CSharp.dll` file before replacing it. This ensures you can restore the original version if needed.
 - **Disclaimer:** This project is for educational and non-commercial purposes only. Use at your own risk.
+
+---
+
+## Request a Patch
+
+If you have suggestions for additional patches or modifications you'd like to see, feel free to open an **Issue** in this repository. Describe your request clearly, and I'll do my best to implement it if possible.
 
 ---
 
