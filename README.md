@@ -13,6 +13,11 @@
   <img src="https://img.shields.io/github/issues/Samxel/schlag-den-star-patches" alt="Open Issues">
 </p>
 
+<p align="center">
+  <img src="https://media.tenor.com/MP8hjQ_s-VUAAAAi/ghgpls-bastighg.gif" alt="Funny GIF">
+</p>
+
+
 ---
 
 ## Installation
