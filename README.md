@@ -53,11 +53,9 @@ To apply the patch, follow these steps:
 
 ### **Wichtige Hinweise**
 - **Backup:** Erstelle immer ein Backup der originalen Datei `Assembly-CSharp.dll`, bevor du sie ersetzt. So kannst du die Originalversion bei Bedarf wiederherstellen.
-- **Haftungsausschluss:** Dieses Projekt dient ausschließlich zu Bildungs- und nicht-kommerziellen Zwecken. Nutzung auf eigene Gefahr.
 
 ### **Important Notes**
 - **Backup First:** Always create a backup of the original `Assembly-CSharp.dll` file before replacing it. This ensures you can restore the original version if needed.
-- **Disclaimer:** This project is for educational and non-commercial purposes only. Use at your own risk.
 
 ---
 
