@@ -22,7 +22,6 @@
 
 ## Installation
 
-### Deutsch
 Um den Patch anzuwenden, folge diesen Schritten:
 
 1. Öffne deinen Steam-Installationsordner. Standardmäßig befindet sich dieser unter:  
